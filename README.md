@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Neha Kanabar</h1>
+<h1 align="center">Hey👋, I'm Neha Kanabar</h1>
 <h3 align="center">I am passionate about machine learning, data structures, algorithms, and web development.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://www.chalmers.se/_next/image/?url=https%3A%2F%2Fcms.www.chalmers.se%2FMedia%2Fmb3hi4kn%2Fcoding-7-1920.jpg%3Fwidth%3D1920%26height%3D1080%26rnd%3D133293116108230000%26quality%3D60%26format%3Dwebp&w=3840&q=85">
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nehakanabar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nehakanabar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/neha-kanabar-44a191260?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nehakanabar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
