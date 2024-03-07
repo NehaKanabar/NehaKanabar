@@ -1,5 +1,5 @@
 <h1 align="center">Hey👋, I'm Neha Kanabar</h1>
-<h3 align="center">I am passionate about machine learning, data structures, algorithms, and web development.</h3>
+<h3 align="center">I am passionate about data science, machine learning, data structures, algorithms, and web development.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://www.chalmers.se/_next/image/?url=https%3A%2F%2Fcms.www.chalmers.se%2FMedia%2Fmb3hi4kn%2Fcoding-7-1920.jpg%3Fwidth%3D1920%26height%3D1080%26rnd%3D133293116108230000%26quality%3D60%26format%3Dwebp&w=3840&q=85">
 
