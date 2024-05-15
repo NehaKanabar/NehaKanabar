@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently exploring Machine Learning
 
-- 💬 Ask me about **Data Science,Machine Learning, DSA , DBMS , web development, **
+- 💬 Ask me about Data Science,Machine Learning, DSA , DBMS , web development
 
 - 📫 How to reach me **nehakanabar99@gmail.com**
 
