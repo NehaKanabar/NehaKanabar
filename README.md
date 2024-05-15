@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lucida+Handwriting&size=80&center=true&vCenter=true&color=FF69B4&random=false&width=1900&height=160&lines=Hey+there...%F0%9F%91%8B;Welcome+to+my+coding+playground!;Machine+Learning+%F0%9F%A4%96;Data+Science+%F0%9F%93%8A;Open+Source+%F0%9F%8C%90)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lucida+Handwriting&size=80&center=true&vCenter=true&color=FF69B4&random=false&width=1900&height=160&lines=Hey+there...%F0%9F%91%8B;I'm+Neha+Kanabar;Welcome+to+my+coding+playground!;Machine+Learning+%F0%9F%A4%96;Data+Science+%F0%9F%93%8A;Open+Source+%F0%9F%8C%90)](https://git.io/typing-svg)
 
 <div align="center">
   <img align="center" alt="Coding" width="600" src="https://www.chalmers.se/_next/image/?url=https%3A%2F%2Fcms.www.chalmers.se%2FMedia%2Fmb3hi4kn%2Fcoding-7-1920.jpg%3Fwidth%3D1920%26height%3D1080%26rnd%3D133293116108230000%26quality%3D60%26format%3Dwebp&w=3840&q=85">
