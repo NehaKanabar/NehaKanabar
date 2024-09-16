@@ -9,7 +9,6 @@
 </div>
 
 
-- 🌱 Currently exploring Deep Learning
 - 💬 Ask me about Data Science, Machine Learning, DSA, DBMS, web development
 
 <h3 align="left">Connect with me:</h3>
