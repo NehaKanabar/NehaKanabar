@@ -8,8 +8,8 @@
   <a href="mailto:nehakanabar99@gmail.com">📫 Reach me via email</a>
 </div>
 
-
-- 💬 Ask me about Data Science, Machine Learning, DSA, DBMS, web development
+<br/>
+- 💬 Ask me about Full Stack Web Development, Data Structure & Algorithms , Database Management System.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
