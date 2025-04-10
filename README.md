@@ -1,49 +1,135 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lucida+Handwriting&size=80&center=true&vCenter=true&color=FF69B4&random=false&width=1900&height=160&lines=Hey+there...%F0%9F%91%8B;I'm+Neha+Kanabar;Welcome+to+my+coding+playground!;Full+Stack+Web+Developer+%F0%9F%93%8A;Open+Source+%F0%9F%8C%90)](https://git.io/typing-svg)
-
 <div align="center">
-  <img align="center" alt="Coding" width="600" src="https://www.chalmers.se/_next/image/?url=https%3A%2F%2Fcms.www.chalmers.se%2FMedia%2Fmb3hi4kn%2Fcoding-7-1920.jpg%3Fwidth%3D1920%26height%3D1080%26rnd%3D133293116108230000%26quality%3D60%26format%3Dwebp&w=3840&q=85">
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=nehakanabar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <br>
-  <a href="mailto:nehakanabar99@gmail.com">📫 Reach me via email</a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,9,17,30,18&height=300&section=header&text=NEHA%20KANABAR&fontSize=90&fontAlignY=40&animation=fadeIn&fontColor=fff&desc=Upcoming%20SDE%20Intern%20@Mastercard&descAlignY=60&descSize=20" width="100%" />
 </div>
 
-<br/>
-- 💬 Ask me about Full Stack Web Development, Data Structure & Algorithms , Database Management System.
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=600&size=48&pause=1000&center=true&vCenter=true&width=800&height=100&lines=Welcome+to+my+coding+playground;Java+%2B+Spring+Boot;MERN+Stack;Open+Source+Enthusiast" alt="Typing SVG" />
+  </a>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/neha-kanabar-44a191260" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/></a>
-  <a href="https://instagram.com/ne_haa_55" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" width="40" height="40"/></a>
+<!-- Custom Badge Section -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nehakanabar&style=for-the-badge&color=ff69b4&label=PROFILE+VIEWS" alt="Profile Views">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+<!-- Curved Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+
+## <div align="center">👩‍💻 Currently exploring Microservices in Spring Boot 👩‍💻</div>
+
+<div align="center">
+  <h3>💬 Ask me about DSA, DBMS, MERN Stack and Java Full Stack 💬</h3>
+</div>
+
+<!-- Curved Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## <div align="center">⚙️ TECH STACK ⚙️</div>
+
+<div align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=black&color=orange" alt="Java"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white&labelColor=black&color=6DB33F" alt="Spring"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white&labelColor=black&color=6DB33F" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white&labelColor=black&color=6DB33F" alt="Spring Security"/>
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white&labelColor=black&color=59666C" alt="Hibernate"/>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white&labelColor=black&color=C71A36" alt="Maven"/>
+  <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white&labelColor=black&color=25A162" alt="JUnit5"/>
 </p>
 
-<div align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nehakanabar&layout=compact&hide=html&theme=radical" alt="Top Langs" />
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=black&color=4EA94B" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white&labelColor=black&color=404D59" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=black&color=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&labelColor=black&color=43853D" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white&labelColor=black&color=764ABC" alt="Redux"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=black&color=000000" alt="Next.js"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=black&color=3178C6" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white&labelColor=black&color=A8B9CC" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=black&color=00599C" alt="C++"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=black&color=3776AB" alt="Python"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=black&color=F05032" alt="Git"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=black&color=2496ED" alt="Docker"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=black&color=FF9900" alt="AWS"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black&color=4479A1" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=black&color=316192" alt="PostgreSQL"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=black&color=007ACC" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white&labelColor=black&color=FE315D" alt="IntelliJ"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=black&color=FF6C37" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=black&color=000000" alt="Vercel"/>
+</p>
 </div>
 
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nehakanabar&show_icons=true&line_height=27&count_private=true&theme=radical" alt="Neha's GitHub Stats"/>
-</div>
+<!-- Curved Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+## <div align="center">📊 MY GITHUB STATS & LANGUAGES 📊</div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nehakanabar&theme=radical" alt="Neha's GitHub Streak" />
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=nehakanabar&theme=github-compact&bg_color=000000&color=E88795&line=FF6B96&point=FFFFFF&area=true&area_color=F10672&hide_border=true" alt="GitHub Activity Graph">
+        <br><br>
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=nehakanabar&theme=radical&hide_border=true&background=000000&stroke=FF6B96&ring=FF6B96&fire=FF6B96&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF6B96&sideLabels=FF6B96" alt="GitHub Streak Stats">
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nehakanabar&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=000000&title_color=FF6B96&text_color=FFFFFF&icon_color=FF6B96" alt="Most Used Languages">
+      </td>
+    </tr>
+  </table>
 </div>
+
+<!-- Curved Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+## <div align="center">💻 CODE DIARY 💻</div>
+
+```java
+public class DevLife {
+  public String morningRoutine() {
+    return "Tea.brew() -> Brain.start() -> Git.pull()";
+  }
+  
+  public boolean attemptBugFix(Bug bug) {
+    // The universal debugging algorithm
+    return !bug.exists() ? celebrate() : 
+           bug.containsIn("myCode") ? deepBreath() && refactor() : 
+           blameFramework();
+  }
+  
+  // What looks like magic to others is just
+  // thousands of hours of Stack Overflow visits
+}
+```
+
+<!-- Curved Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## <div align="center">🤝 LET'S CONNECT 🤝</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/neha-kanabar-44a191260">
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100px" alt="LinkedIn">
+  </a>
+  <a href="mailto:nehakanabar99@gmail.com">
+    <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="100px" alt="Email">
+  </a>
+  <a href="https://instagram.com/ne_haa_55">
+    <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100px" alt="Instagram">
+  </a>
+</div>
+
+<!-- Animated Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20,6,10&height=170&section=footer&animation=fadeIn" width="100%" />
