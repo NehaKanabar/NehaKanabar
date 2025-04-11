@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,9,17,30,18&height=300&section=header&text=NEHA%20KANABAR&fontSize=90&fontAlignY=40&animation=fadeIn&fontColor=fff&desc=Upcoming%20SDE%20Intern%20@Mastercard&descAlignY=60&descSize=20" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,17,21,33&height=300&section=header&text=NEHA%20KANABAR&fontSize=90&fontAlignY=40&animation=fadeIn&fontColor=fff&desc=Upcoming%20SDE%20Intern%20@Mastercard&descAlignY=60&descSize=20" width="100%" />
 </div>
 
 <div align="center">
@@ -10,12 +10,8 @@
 
 <!-- Custom Badge Section -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nehakanabar&style=for-the-badge&color=ff69b4&label=PROFILE+VIEWS" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=nehakanabar&style=for-the-badge&color=1167b1&label=PROFILE+VIEWS" alt="Profile Views">
 </p>
-
-<!-- Curved Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
 
 ## <div align="center">👩‍💻 Currently exploring Microservices in Spring Boot 👩‍💻</div>
 
@@ -23,14 +19,11 @@
   <h3>💬 Ask me about DSA, DBMS, MERN Stack and Java Full Stack 💬</h3>
 </div>
 
-<!-- Curved Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
 ## <div align="center">⚙️ TECH STACK ⚙️</div>
 
 <div align="center">
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=black&color=orange" alt="Java"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=black&color=ED8B00" alt="Java"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white&labelColor=black&color=6DB33F" alt="Spring"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white&labelColor=black&color=6DB33F" alt="Spring Boot"/>
   <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white&labelColor=black&color=6DB33F" alt="Spring Security"/>
@@ -71,28 +64,20 @@
 </p>
 </div>
 
-<!-- Curved Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
 ## <div align="center">📊 MY GITHUB STATS & LANGUAGES 📊</div>
 
 <div align="center">
   <table>
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=nehakanabar&theme=github-compact&bg_color=000000&color=E88795&line=FF6B96&point=FFFFFF&area=true&area_color=F10672&hide_border=true" alt="GitHub Activity Graph">
-        <br><br>
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=nehakanabar&theme=radical&hide_border=true&background=000000&stroke=FF6B96&ring=FF6B96&fire=FF6B96&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF6B96&sideLabels=FF6B96" alt="GitHub Streak Stats">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=nehakanabar&theme=github-compact&bg_color=000000&color=6c8eff&line=6c8eff&point=FFFFFF&area=true&area_color=6c8eff&hide_border=true" alt="GitHub Activity Graph">
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nehakanabar&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=000000&title_color=FF6B96&text_color=FFFFFF&icon_color=FF6B96" alt="Most Used Languages">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nehakanabar&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=000000&title_color=6c8eff&text_color=FFFFFF&icon_color=6c8eff" alt="Most Used Languages">
       </td>
     </tr>
   </table>
 </div>
-
-<!-- Curved Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ## <div align="center">💻 CODE DIARY 💻</div>
 
@@ -114,9 +99,6 @@ public class DevLife {
 }
 ```
 
-<!-- Curved Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
 ## <div align="center">🤝 LET'S CONNECT 🤝</div>
 
 <div align="center">
@@ -132,4 +114,4 @@ public class DevLife {
 </div>
 
 <!-- Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20,6,10&height=170&section=footer&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,17,21,33&height=170&section=footer&animation=fadeIn" width="100%" />
