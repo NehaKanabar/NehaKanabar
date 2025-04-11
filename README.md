@@ -1,6 +1,5 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,17,21,33&height=300&section=header&text=NEHA%20KANABAR&fontSize=90&fontAlignY=40&animation=fadeIn&fontColor=fff&desc=Upcoming%20SDE%20Intern%20@Mastercard&descAlignY=60&descSize=20" width="100%" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f4c75,100:45a29e&height=300&section=header&text=NEHA%20KANABAR&fontSize=90&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=Upcoming%20SDE%20Intern%20@Mastercard&descAlignY=60&descSize=20" width="100%" />
+
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -24,7 +23,6 @@
 <div align="center">
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=black&color=ED8B00" alt="Java"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white&labelColor=black&color=6DB33F" alt="Spring"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white&labelColor=black&color=6DB33F" alt="Spring Boot"/>
   <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white&labelColor=black&color=6DB33F" alt="Spring Security"/>
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white&labelColor=black&color=59666C" alt="Hibernate"/>
@@ -114,4 +112,5 @@ public class DevLife {
 </div>
 
 <!-- Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,17,21,33&height=170&section=footer&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f4c75,100:45a29e&height=170&section=footer&animation=fadeIn" width="100%" />
+
