@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f4c75,100:45a29e&height=300&section=header&text=NEHA%20KANABAR&fontSize=90&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=Upcoming%20SDE%20Intern%20@Mastercard&descAlignY=60&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f4c75,100:45a29e&height=300&section=header&text=NEHA%20KANABAR&fontSize=90&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=Upcoming%20SDE%20@Mastercard&descAlignY=60&descSize=20" width="100%" />
 
 
 <div align="center">
