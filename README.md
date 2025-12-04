@@ -12,7 +12,6 @@
   <img src="https://komarev.com/ghpvc/?username=nehakanabar&style=for-the-badge&color=1167b1&label=PROFILE+VIEWS" alt="Profile Views">
 </p>
 
-## <div align="center">👩‍💻 Currently exploring Microservices in Spring Boot 👩‍💻</div>
 
 <div align="center">
   <h3>💬 Ask me about DSA, DBMS, MERN Stack and Java Full Stack 💬</h3>
